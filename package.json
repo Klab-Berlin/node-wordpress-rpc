@@ -1,6 +1,6 @@
 {
   "name": "wp-XML-RPC",
-  "description": "",
+  "description": "A Request-Wrapper for the XML-RPC API of Wordpress",
   "version": "0.1.0",
   "author": "Paul Nordmann <paul.nordmann@klab-berlin.com>",
   "dependencies": {
