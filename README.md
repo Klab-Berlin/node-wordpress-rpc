@@ -1,0 +1,1 @@
+module for remote Wordpress control over the XML-RPC API
