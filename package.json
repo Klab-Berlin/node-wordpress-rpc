@@ -1,8 +1,14 @@
 {
   "name": "wordpress-rpc",
   "description": "A Request-Wrapper for the XML-RPC API of Wordpress",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Paul Nordmann <paul.nordmann@klab-berlin.com>",
+  "contributors": [
+    { 
+      "name" : "Bruno Winck", 
+      "url" : "https://github.com/BrunoWinck"
+    }
+  ],
   "dependencies": {
     "xml2js" : "0.2.6"
   },
