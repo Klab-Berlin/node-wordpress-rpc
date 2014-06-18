@@ -9,6 +9,10 @@
       "url" : "https://github.com/BrunoWinck"
     }
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Klab-Berlin/node-wordpress-rpc.git"
+  },
   "dependencies": {
     "xml2js" : "0.2.6"
   },
